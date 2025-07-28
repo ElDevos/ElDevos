@@ -13,7 +13,7 @@ Hello! I'm a passionate and driven Software Engineering student actively seeking
 
 I'm particularly interested in full-stack development, mobile app development, artificial intelligence and continuously expand my knowledge through personal projects and online learning. My goal is to develop efficient, scalable, and user-centric software solutions.
 
-I'm a quick learner, a collaborative team player, and always up for a challenge. I'm proficient in Python, Java, JavaScript and have experience with Git, React, Node.js, SQL databases.
+I'm a quick learner, a collaborative team player, and always up for a challenge. I'm proficient in Java and have experience with Git, React, Node.js, SQL databases.
 
 <!-- counter viewer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ElDevos&label=Profile%20views&color=252da1&style=for-the-badge" alt="ElDevos" /> </p>
