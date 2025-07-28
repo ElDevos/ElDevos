@@ -9,15 +9,17 @@
 <!-- About me -->
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me! 
 
-- 🌱 My name is David Zhang, I am from Panama, welcome to my GitHub home page
-- ⚡ 
-- 😄 
-- 💖 
-- 🔥 
-<!-- 
+Hello! I'm a passionate and driven Software Engineering student actively seeking opportunities to contribute to innovative projects and grow as a developer. My academic journey has equipped me with a strong foundation in object-oriented programming, data structures, algorithms, web development and I'm eager to apply my skills in a professional setting.
+
+I'm particularly interested in full-stack development, mobile app development, artificial intelligence and continuously expand my knowledge through personal projects and online learning. My goal is to develop efficient, scalable, and user-centric software solutions.
+
+I'm a quick learner, a collaborative team player, and always up for a challenge. I'm proficient in Python, Java, JavaScript and have experience with Git, React, Node.js, SQL databases.
+
+<!-- counter viewer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ElDevos&label=Profile%20views&color=252da1&style=for-the-badge" alt="ElDevos" /> </p>
 -->
 
+<!-- Skills -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <h4>Languages</h4>
 <span>
